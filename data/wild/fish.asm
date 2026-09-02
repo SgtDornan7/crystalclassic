@@ -142,7 +142,7 @@ FishGroups:
 	dbbw  40 percent,     MAGIKARP,   40
 	dbbw  70 percent,     TIME_GROUP, 15
 	dbbw  90 percent + 1, MAGIKARP,   40
-	dbwb 100 percent,     MAGIKARP,   40
+	dbbw 100 percent,     MAGIKARP,   40
 
 .Dratini_2_Old:
 	dbbw  70 percent + 1, MAGIKARP,   10
